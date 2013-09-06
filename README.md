@@ -1,6 +1,6 @@
 Fora.io 
 ========
-Forums + Conversation Platform around #hashtag
+Forums + Conversation Platform
 
 Development Model
 ========================
@@ -65,3 +65,4 @@ Notification
     - When a reply is posted on my thread
   -One per day
     - Send email of the list of new threads posted on following room
+
